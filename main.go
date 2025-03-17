@@ -24,6 +24,7 @@ func main() {
 				{Title: "The Shawshank Redemption", Director: "Frank Darabont"},
 				{Title: "The Godfather", Director: "Francis Ford Coppola"},
 				{Title: "The Dark Knight", Director: "Christopher Nolan"},
+				{Title: "The amazing spider man ", Director: "Christopher Nolan"},
 			},
 		}
 
